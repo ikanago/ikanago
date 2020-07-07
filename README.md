@@ -1,8 +1,8 @@
-## Hello, World!
+## Hello, World!👋
 
-Major: computer science👨‍🎓  
-Prefer: statically typed programming language and VSCode  
-Hobby: star gazing🪐
+Major: Computer science👨‍🎓  
+Prefer: Statically typed programming language and VSCode👨‍💻  
+Hobby: Star gazing🌠
 
 ## Interests👀
 
@@ -13,11 +13,11 @@ Hobby: star gazing🪐
 
 ## Major Project
 
-### ycc
+### [ycc](https://github.com/ikanago/ycc)
 C subset compiler. This is a first programming language system I developed.
 
-### mini_ml
+### [mini_ml](https://github.com/ikanago/mini_ml)
 OCaml subset interpreter. I implemented typing system to infer a type of variables.
 
-### toy_http_server
+### [toy_http_server](https://github.com/ikanago/toy_http_server)
 HTTP server implementation to learn HTTP and inside of web backend.
