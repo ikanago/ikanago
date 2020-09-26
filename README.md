@@ -1,14 +1,14 @@
 ## Hello, World!👋
 
-Major: Computer science👨‍🎓  
-Prefer: Statically typed programming language and VSCode👨‍💻  
+Major: Information engineering👨‍🎓  
+Prefer: Statically typed programming language👨‍💻  
 Hobby: Star gazing🌠
 
 ## Interests👀
 
 * Rust🦀
 * Developing compiler and interpreter
-* Competitive programming
+* Competitive programming🏃‍♂️
 * Web backend
 
 ## Major Project
