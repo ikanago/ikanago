@@ -5,6 +5,7 @@
 
 Major: Information engineering👨‍🎓  
 Prefer: Statically typed programming language👨‍💻  
+Part-time: Quantum computing💫  
 Hobby: Star gazing🌠
 
 ## Interests👀
