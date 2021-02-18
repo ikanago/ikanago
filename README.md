@@ -24,3 +24,6 @@ OCaml subset interpreter. I implemented typing system to infer a type of variabl
 
 ### [toy_http_server](https://github.com/ikanago/toy_http_server)
 HTTP server implementation to learn HTTP and inside of web backend.
+
+### [horreum](https://github.com/ikanago/horreum)
+Persistent key-value store.
