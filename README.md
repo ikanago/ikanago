@@ -1,6 +1,5 @@
 # About me
 
-<a href="https://twitter.com/ikanag0" target="_blank" rel="noopener noreferrer" title="ikanag0"><img src="https://img.shields.io/badge/Twitter-ikanag0-1A91DA?style=flat&amp;logo=twitter" alt="Link to ikanago's Twitter."></a>
 <a href="https://ejje.weblio.jp/content/struggle" target="_blank" rel="noopener noreferrer" title="😵"><img src="https://img.shields.io/badge/Always-struggling-red?style=flat" alt="Indicates I'm always struggling."></a>
 
 Major: Computer Science👨‍🎓  
